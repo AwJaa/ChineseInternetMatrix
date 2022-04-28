@@ -21,32 +21,13 @@ Ever wonder? <br>
 * [Description](#description)
 	* [Pros](#pros)
 	* [Cons](#cons)
-* [Theory of Operation](#theory-of-operation) 
-	* [Hardware Components](#hardware-components)
-	* [Software Components](#software-components)
-	* [Usage and Network Flow](#usage-and-network-flow)
-	* [Other Points](#other-points)
-* [Requirements](#requirements)
-* [Installation](#installation)
-	* [Common Tasks to All Systems](#common-tasks-to-all-systems)
-	* [ProxyVM Installation and Configuration](#proxyvm-installation-and-configuration)
-		* [WireGuard on ProxyVM](#wireguard-on-proxyvm)
-		* [iptables on ProxyVM](#iptables-on-proxyvm)
-	* [Linode1 Installation and Configuration](#linode1-installation-and-configuration)
-		* [WireGuard on Linode 1](#wireguard-on-linode1)
-		* [Squid on Linode1](#squid-on-linode1)
-		* [iptables on Linode1](#iptables-on-linode1)
-	* [Linode2 Installation and Configuration](#linode2-installation-and-configuration)
-		* [WireGuard on Linode2](#wireguard-on-linode2)
-		* [Squid on Linode2](#squid-on-linode2)
-		* [iptables on Linode 2](#iptables-on-linode2)
 
 ## Chinese to Western:
 [Table of Contents](#table-of-contents)
 
 | Chinese       | Western       | Description  |
 |:-------------:|:-------------:|:------------ |
-| ![Weibo](images/214716_weibo_china_chinese_sina_icon.png =200x200) | Twitter | Twitter |
+| ![Weibo]("images/214716_weibo_china_chinese_sina_icon.png" =200x200) | Twitter | Twitter |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
