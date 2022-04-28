@@ -31,6 +31,9 @@ Ever wonder? <br>
 | <img src="images/tencent_qq.png" width="100"> | Tencent QQ (腾讯QQ) | ? | ? | instant messaging app and web portal |
 | <img src="images/tencent_qzone.png" width="100"> | Tencent Q Zone (QQ空间) | ? | ? | personal blog for QQ |
 | <img src="images/tencent_wechat.png" width="100"> | Tencent WeChat (微信) | ? | ? | instant messaging, social media, mobile payment app |
+| <img src="images/baidu.png" width="100"> | Baidu (百 度) | Google Icon | Google | search engine, Cloud computing, AI |
+| <img src="images/baidu_tieba.png" width="100"> | Baidu Tieba (百度贴吧) | ? | ? | keyword-based discussion forum |
+
 
 ### Pros:
 
