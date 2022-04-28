@@ -27,7 +27,7 @@ Ever wonder? <br>
 
 | Chinese       | Western       | Description  |
 |:-------------:|:-------------:|:------------ |
-| ![Weibo]("images/214716_weibo_china_chinese_sina_icon.png" =200x200) | Twitter | Twitter |
+| <img src="images/214716_weibo_china_chinese_sina_icon.png" width="200"> | Twitter | Twitter |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
