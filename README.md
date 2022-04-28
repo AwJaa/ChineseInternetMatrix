@@ -25,11 +25,9 @@ Ever wonder? <br>
 ## Chinese to Western:
 [Table of Contents](#table-of-contents)
 
-| Chinese       | Western       | Description  |
-|:-------------:|:-------------:|:------------ |
-| <img src="images/214716_weibo_china_chinese_sina_icon.png" width="100"> | Twitter | Twitter |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Chinese Icon  | Chinese Name | Western Icon | Western Name      | Description  |
+|:-------------:|:------------:|:------------:|:-----------------:|:-------------|
+| <img src="images/214716_weibo_china_chinese_sina_icon.png" width="100"> | Weibo (微博) | Twitter Icon | Twitter |
 
 
 ### Pros:
