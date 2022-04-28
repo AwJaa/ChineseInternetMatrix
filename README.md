@@ -40,49 +40,16 @@ Ever wonder? <br>
 		* [WireGuard on Linode2](#wireguard-on-linode2)
 		* [Squid on Linode2](#squid-on-linode2)
 		* [iptables on Linode 2](#iptables-on-linode2)
-* [Best Practices](#best-practices)
-	* [Browsers](#browsers)
-		* [Firefox and Variants](#firefox-and-variants)
-			* [Managing Profiles in Firefox](#managing-profiles-in-firefox)
-				* [Creating New Profiles](#creating-new-profiles)
-				* [Forcing from Command Line](#forcing-from-command-line)
-				* [Using Themes to Discern](#using-themes-to-discern)
-				* [Bookmark All Common Sites](#bookmark-all-common-sites)
-			* [Managing Proxies](#managing-proxies)
-				* [Forced Through Command Line](#forced-through-command-line)
-				* [Proxy Switching Extensions](#proxy-switching-extensions)
-			* [Basic Hardening](#basic-hardening)
-		* [Chrome and Variants](#chrome-and-variants)
-			* [Managing Profiles in Chrome](#managing-profiles-in-chrome)
-				* [Creating New Profiles](#creating-new-profiles)
-				* [Forcing from Command Line](#forcing-from-command-line)
-				* [Using Themes to Discern](#using-themes-to-discern)
-				* [Bookmark All Common Sites](#bookmark-all-common-sites)
-			* [Managing Proxies](#managing-proxies)
-				* [Forced Through Command Line](#forced-through-command-line)
-				* [Proxy Switching Extensions](#proxy-switching-extensions)
-			* [Basic Hardening](#basic-hardening)
-	* [Protecting Your Network](#protecting-your-network)
-		* [Hardening With iptables](#hardening-with-iptables)
-		* [Obscuring](#obscuring)
-		* [Logging and Alerting](#logging-and-alerting)
-	* [Fake Online Identities](#fake-online-identities)
-		* [Country of Origin vs Current Country](#country-of-origin-vs-current-country)
-			* [Make Sure the Browser is Not Ratting You Out](#make-sure-the-browser-is-not-ratting-you-out)
-			* [Language Habits](#language-habits)
-			* [Making Friends](#making-friends)
-		* [Sources of Selfies](#sources-of-selfies)
 
-
-
-## Description:
+## Chinese to Western:
 [Table of Contents](#table-of-contents)
 
-DDoI (pronounced, "duh doi") VPN is mostly intended to assist others in realizing their potential for taking 
-complete control over their fake online (web-based) identities.  This is documented and tested
-as an all-linux solution, though it could easily be changed for other OSes.  
+| Chinese       | Western       | Description  |
+|:-------------:|:-------------:|:------------ |
+| ![Weibo](images/214716_weibo_china_chinese_sina_icon.png) | Twitter | Twitter |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
-Here are the main pros and cons of this solution over others:
 
 ### Pros:
 
