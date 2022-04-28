@@ -27,7 +27,7 @@ Ever wonder? <br>
 
 | Chinese Icon  | Chinese Name | Wikipedia | Western Icon | Western Name      | Description  |
 |:-------------:|:------------:|:---------:|:------------:|:-----------------:|:-------------|
-| <img src="images/sina_weibo.png" width="100"> | Sina Weibo (微博) | <a href="https://en.wikipedia.org/wiki/Sina_Weibo">Wikipedia</a> | Twitter Icon | Twitter | micro-blogging platform (there are many weibo's, as it is a general term for microblogging) |
+| <img src="images/sina_weibo.png" width="100"> | Sina Weibo (微博) | <a href="https://en.wikipedia.org/wiki/Sina_Weibo">Wikipedia</a> | Twitter Icon / facenook Icon | Twitter + Facebook | micro-blogging platform (there are many weibo's, as it is a general term for microblogging) |
 | <img src="images/tencent_qq.png" width="100"> | Tencent QQ (腾讯QQ) | <a href="https://en.wikipedia.org/wiki/Tencent_QQ">Wikipedia</a> | ? | ? | instant messaging app and web portal |
 | <img src="images/tencent_qzone.png" width="100"> | Tencent Q Zone (QQ空间) | <a href="https://en.wikipedia.org/wiki/Qzone">Wikipedia</a> | ? | ? | personal blog for QQ |
 | <img src="images/tencent_wechat.png" width="100"> | Tencent WeChat (微信) | <a href="https://en.wikipedia.org/wiki/WeChat">Wikipedia</a> | ? | ? | instant messaging, social media, mobile payment app |
@@ -36,6 +36,8 @@ Ever wonder? <br>
 | <img src="images/douban.png" width="100"> | Douban (豆瓣) | <a href="https://en.wikipedia.org/wiki/Douban">Wikipedia</a> | ? | ? | social networking, online music/video/book review database |
 | <img src="images/diandian.png" width="100"> | Diandian (点点) | None | ? | ? | light blog social community |
 | <img src="images/alibaba_taobao.png" width="100"> | Alibaba Taobao (淘寶) | <a href="https://en.wikipedia.org/wiki/Taobao">Wikipedia</a> | ? | ? | online shopping platform |
+| <img src="images/kaixinwang.png" width="100"> | Kaixin001 or Kaixinwang (开心网) | <a href="https://en.wikipedia.org/wiki/Kaixin001">Wikipedia</a> | ? | ? | social networking |
+| <img src="images/feixin.png" width="100"> | Feixin or Fetion (飞信) | <a href="https://en.wikipedia.org/wiki/Fetion">Wikipedia</a> | ? | ? | instant messaging, SMS |
 
 
 ### Pros:
