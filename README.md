@@ -27,8 +27,10 @@ Ever wonder? <br>
 
 | Chinese Icon  | Chinese Name | Western Icon | Western Name      | Description  |
 |:-------------:|:------------:|:------------:|:-----------------:|:-------------|
-| <img src="images/214716_weibo_china_chinese_sina_icon.png" width="100"> | Weibo (微博) | Twitter Icon | Twitter | micro-blogging platform |
-| <img src="images/214723_qq_tencent_china_chinese_icon.png" width="100"> | Tencent QQ (腾讯QQ) | ? | ? | instant messaging app |
+| <img src="images/sina_weibo.png" width="100"> | Sina Weibo (微博) | Twitter Icon | Twitter | micro-blogging platform |
+| <img src="images/tencent_qq.png" width="100"> | Tencent QQ (腾讯QQ) | ? | ? | instant messaging app and web portal |
+| <img src="images/tencent_qzone.png" width="100"> | Tencent Q Zone (QQ空间) | ? | ? | personal blog for QQ |
+| <img src="images/tencent_wechat.png" width="100"> | Tencent WeChat (微信) | ? | ? | instant messaging, social media, mobile payment app |
 
 ### Pros:
 
