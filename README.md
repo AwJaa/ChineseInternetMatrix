@@ -32,11 +32,13 @@ Ever wonder? <br>
 | <img src="images/diandian.png" width="100"> | Diandian (点点) | None | ? | ? | light blog social community |
 | <img src="images/alibaba_taobao.png" width="100"> | Alibaba Taobao (阿里巴巴 淘寶) | <a href="https://en.wikipedia.org/wiki/Taobao">Wikipedia</a> | ? | ? | online shopping platform |
 | <img src="images/alibaba_laiwang.png" width="100"> | Alibaba Laiwang (阿里巴巴 来往) | None | ? | ? | instant messaging |
+| <img src="images/alibaba_wangwang.png" width="100"> | AliWangWang (阿里旺旺) | None | ? | ? | instant messaging for TaoBao marketplace |
 | <img src="images/kaixinwang.png" width="100"> | Kaixin001 or Kaixinwang (开心网) | <a href="https://en.wikipedia.org/wiki/Kaixin001">Wikipedia</a> | ? | ? | social networking |
 | <img src="images/feixin.png" width="100"> | Feixin or Fetion (飞信) | <a href="https://en.wikipedia.org/wiki/Fetion">Wikipedia</a> | ? | ? | instant messaging, SMS |
 | <img src="images/huaban.png" width="100"> | Huaban (花瓣) | None | Pinterest icon | Pinterest | photo sharing social network |
 | <img src="images/netease_yixin.png" width="100"> | Netease Yixin (怡馨) | None | ? | ? | mobile messaging |
-| <img src="images/momo.png" width="100"> | Momo (陌陌) | <a href="https://en.wikipedia.org/wiki/Momo_(software)">Wikipedia</a> | ? | ? | social search, instant messaging |
+| <img src="images/momo.png" width="100"> | Momo (陌陌) | <a href="https://en.wikipedia.org/wiki/Momo_(software)">Wikipedia</a> | Tinder Icon | Tinder | social search, instant messaging |
+| <img src="images/zhihu.png" width="100"> | Zhihu (知乎) | <a href="https://en.wikipedia.org/wiki/Zhihu">Wikipedia</a> | Quora Icon | Quora | upvoting question and answer site |
 
 
 ## Chinese to Western:
