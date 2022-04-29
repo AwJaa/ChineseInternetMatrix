@@ -25,7 +25,9 @@ countries, but not really.  This makes any comprehensive list a moving target an
 Evolution does occur and that means that some services change from what they were originally intended to be and into an odd mixture of 
 services.  So, a one-to-one equivalency is very difficult to achieve.  
 
-Just like anywhere else, logos also change.  So, you may be looking at an older icon for the same service.  Bear that in mind.
+Just like anywhere else, logos also change.  So, you may be looking at an older icon for the same service.  Bear that in mind.  e.g., that 
+little "fishy" looking thing on QQ is a silouete of a cute little penguin figure (yeah, think Linux... QQ was early on).  I cannot list
+every logo ever used and still have a table useful for quick reference.
 
 I have decided to instead provide Wikipedia links as well as main site, signup, login, and download links so that each one can be 
 researched on your own.  It has become almost impossible to do much of anything personal (with an account) on many of these platforms, 
