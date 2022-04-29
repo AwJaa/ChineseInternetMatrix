@@ -10,9 +10,29 @@ Ever wonder? <br>
 
 ## Table of contents:
 
+* [Things to Know](#things-to-know) 
 * [Chinese to Western](#chinese-to-western) 
 * [Western to Chinese](#western-to-chinese) 
 * [Links](#links) 
+
+## Things to Know:
+[Table of Contents](#table-of-contents)
+
+The Chinese Internet is a giant mixture of stolen and evolving technology.  The companies who show the most favor and cooperation with 
+the CCP win, in the end.  So, some come and go and get swallowed up by the more government-favored giants, a little like in capitalist 
+countries, but not really.  This makes any comprehensive list a moving target and that is likely why they are not commonly found.
+
+Evolution does occur and that means that some services change from what they were originally intended to be and into an odd mixture of 
+services.  So, a one-to-one equivalency is very difficult to achieve.  
+
+I have decided to instead provide Wikipedia links as well as main site, signup, login, and download links so that each one can be 
+researched on your own.  It has become almost impossible to do much of anything personal (with an account) on many of these platforms, 
+anonymously from the West.  Many of them now require a Chinese phone number.  All Chinese phones require full disclosure of all 
+PII (Personally Identifiable Information) at time of sale, so that the CCP can track all activity on their network and more easily
+squash any dissidence before it can even begin.  So, if you do not have such access, you may not be able to do any more than some general 
+tasks.  Do not be fooled by the limited functionality.
+
+Enjoy.
 
 ## Chinese to Western:
 [Table of Contents](#table-of-contents)
