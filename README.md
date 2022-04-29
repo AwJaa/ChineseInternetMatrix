@@ -6,13 +6,7 @@
 
 ## Chinese Internet Equivalency Matrix
 
-**Current Version:** 1.0<br> 
-**Last Update:** 04/28/22<br> 
-**Author:** awja<br> 
-**URL:** https://github.com/lleevveell66/ChineseInternetMatrix<br> 
-
 Ever wonder? <br>
-
 
 ## Table of contents:
 
