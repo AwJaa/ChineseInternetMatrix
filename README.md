@@ -72,17 +72,42 @@ Enjoy.
 | <img src="images/xiaomi_miliao.png" width="100"> | Xiaomi Miliao (-) | - | - | - | - |
 
 
-## Chinese to Western:
+## Western to Chinese:
 [Table of Contents](#table-of-contents)
 
-| Chinese Icon  | Chinese Name | Wikipedia | Western Icon | Western Name      | Description  |
+| Western Icon  | Western Name | Wikipedia | Chinese Icon | Chinese Name      | Description  |
 |:-------------:|:------------:|:---------:|:------------:|:-----------------:|:-------------|
 
 ## Links:
 [Table of Contents](#table-of-contents)
 
-| Icon | Main Site | Download |Sign-up | Login | Other Reference |
-|:----:|:---------:|:--------:|:------:|:-----:|:----------------|
+| Icon | Service | Main Site | Download | Sign-up | Login | Other Reference |
+|:----:|:-------:|:---------:|:--------:|:-------:|:-----:|:----------------|
+| <img src="images/sina_weibo.png" width="100"> | Sina Weibo (新浪微博) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/tencent_weibo.png" width="100"> | Tencent Weibo (腾讯微博) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/renren.png" width="100"> | Renren Wang or Renren Network (人人网) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/tencent_qq.png" width="100"> | Tencent QQ (腾讯QQ) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/tencent_qzone.png" width="100"> | Tencent Q Zone (QQ空间) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/tencent_wechat.png" width="100"> | Tencent WeChat (微信) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/tencent_pengyou.png" width="100"> | Tencent Pengyou (腾讯朋友) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/baidu.png" width="100"> | Baidu (百 度) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/baidu_tieba.png" width="100"> | Baidu Tieba (百度贴吧) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/douban.png" width="100"> | Douban (豆瓣) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/diandian.png" width="100"> | Diandian (点点) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/alibaba_taobao.png" width="100"> | Alibaba Taobao (阿里巴巴 淘寶) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/alibaba_laiwang.png" width="100"> | Alibaba Laiwang (阿里巴巴 来往) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/alibaba_wangwang.png" width="100"> | AliWangWang (阿里旺旺) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/kaixinwang.png" width="100"> | Kaixin001 or Kaixinwang (开心网) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/feixin.png" width="100"> | Feixin or Fetion (飞信) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/huaban.png" width="100"> | Huaban (花瓣) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/netease_yixin.png" width="100"> | Netease Yixin (怡馨) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/momo.png" width="100"> | Momo (陌陌) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/zhihu.png" width="100"> | Zhihu (知乎) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/meilishou.png" width="100"> | Meilishou (Now Mogujie or Mogu (蘑菇街)) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/yunduan.png" width="100"> | Yunduan (-) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/netease_weibo.png" width="100"> | Netease Weibo (-) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/baidu_search.png" width="100"> | Baidu Search (-) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/xiaomi_miliao.png" width="100"> | Xiaomi Miliao (-) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
 
 
 
