@@ -49,7 +49,7 @@ Enjoy.
 [Table of Contents](#table-of-contents)
 
 | Chinese Icon  | Chinese Name | Wikipedia | Similar to...    | Description  |
-|:-------------:|:------------:|:---------:|:------------:|:-----------------:|:-------------|
+|:-------------:|:------------:|:---------:|:----------------:|:------------:|
 | <img src="images/sina_weibo.png" width="100"> | Sina Weibo (新浪微博) | <a href="https://en.wikipedia.org/wiki/Sina_Weibo">Wikipedia</a> | Twitter + Facebook | micro-blogging platform (there are many weibo's, as it is a general term for microblogging) |
 | <img src="images/tencent_weibo.png" width="100"> | Tencent Weibo (腾讯微博) | <a href="https://en.wikipedia.org/wiki/Tencent_Weibo">Wikipedia</a> | Twitter | micro-blogging platform (there are many weibo's, as it is a general term for microblogging) |
 | <img src="images/renren.png" width="100"> | Renren Wang or Renren Network (人人网) | <a href="https://en.wikipedia.org/wiki/Renren">Wikipedia</a> | Facebook | social networking service |
