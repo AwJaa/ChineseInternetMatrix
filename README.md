@@ -52,7 +52,7 @@ Enjoy.
 |:-------------:|:------------:|:---------:|:------------:|:-----------------:|:-------------|
 | <img src="images/sina_weibo.png" width="100"> | Sina Weibo (新浪微博) | <a href="https://en.wikipedia.org/wiki/Sina_Weibo">Wikipedia</a> | Twitter Icon / Facebook Icon | Twitter + Facebook | micro-blogging platform (there are many weibo's, as it is a general term for microblogging) |
 | <img src="images/tencent_weibo.png" width="100"> | Tencent Weibo (腾讯微博) | <a href="https://en.wikipedia.org/wiki/Tencent_Weibo">Wikipedia</a> | Twitter Icon | Twitter | micro-blogging platform (there are many weibo's, as it is a general term for microblogging) |
-| <img src="images/renren.png" width="100"> | Renren Wang or Renren Network (人人网) | <a href="https://en.wikipedia.org/wiki/RenRen">Wikipedia</a> | Facebook Icon | Facebook | social networking service |
+| <img src="images/renren.png" width="100"> | Renren Wang or Renren Network (人人网) | <a href="https://en.wikipedia.org/wiki/Renren">Wikipedia</a> | Facebook Icon | Facebook | social networking service |
 | <img src="images/tencent_qq.png" width="100"> | Tencent QQ (腾讯QQ) | <a href="https://en.wikipedia.org/wiki/Tencent_QQ">Wikipedia</a> | - | - | instant messaging app and web portal |
 | <img src="images/tencent_qzone.png" width="100"> | Tencent Q Zone (QQ空间) | <a href="https://en.wikipedia.org/wiki/Qzone">Wikipedia</a> | - | - | personal blog for QQ |
 | <img src="images/tencent_wechat.png" width="100"> | Tencent WeChat (微信) | <a href="https://en.wikipedia.org/wiki/WeChat">Wikipedia</a> | - | - | instant messaging, social media, mobile payment app |
@@ -88,9 +88,9 @@ Enjoy.
 
 | Icon | Service | Main Site | Download | Sign-up | Login | Other Reference |
 |:----:|:-------:|:---------:|:--------:|:-------:|:-----:|:----------------|
-| <img src="images/sina_weibo.png" width="100"> | Sina Weibo (新浪微博) | <a href="https://weibo.com/us">Main</a> | <a href="https://play.google.com/store/apps/details?id=com.sina.weibo&hl=en_US&gl=US">Android</a> | <a href="https://weibo.com/signup/signup.php">Signup</a> | <a href="https://weibo.com/login.php">Login</a> | <a href="notyet">-</a> |
-| <img src="images/tencent_weibo.png" width="100"> | Tencent Weibo (腾讯微博) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
-| <img src="images/renren.png" width="100"> | Renren Wang or Renren Network (人人网) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/sina_weibo.png" width="100"> | Sina Weibo (新浪微博) | <a href="https://weibo.com/us">Main</a> | <a href="https://play.google.com/store/apps/details?id=com.sina.weibo&hl=en_US&gl=US">Android</a> <a href="https://apps.apple.com/us/app/weibo/id350962117">Apple</a> | <a href="https://weibo.com/signup/signup.php">Signup</a> | <a href="https://weibo.com/login.php">Login</a> | <a href="notyet">-</a> |
+| <img src="images/tencent_weibo.png" width="100"> | Tencent Weibo (腾讯微博) | <a href="http://t.qq.com/">Main</a> | No longer available | No longer available | No longer available | <a href="https://kr-asia.com/tencent-finally-kills-microblogging-service-tencent-weibo-after-years-long-decline">Tencent shuts down Weibo</a> |
+| <img src="images/renren.png" width="100"> | Renren Wang or Renren Network (人人网) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="https://renren.com/login">Login</a> | <a href="notyet">-</a> |
 | <img src="images/tencent_qq.png" width="100"> | Tencent QQ (腾讯QQ) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
 | <img src="images/tencent_qzone.png" width="100"> | Tencent Q Zone (QQ空间) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
 | <img src="images/tencent_wechat.png" width="100"> | Tencent WeChat (微信) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
@@ -102,7 +102,7 @@ Enjoy.
 | <img src="images/alibaba_taobao.png" width="100"> | Alibaba Taobao (阿里巴巴 淘寶) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
 | <img src="images/alibaba_laiwang.png" width="100"> | Alibaba Laiwang (阿里巴巴 来往) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
 | <img src="images/alibaba_wangwang.png" width="100"> | AliWangWang (阿里旺旺) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
-| <img src="images/kaixinwang.png" width="100"> | Kaixin001 or Kaixinwang (开心网) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/kaixinwang.png" width="100"> | Kaixin001 or Kaixinwang (开心网) | <a href="https://www.kaixin001.com/">Main</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
 | <img src="images/feixin.png" width="100"> | Feixin or Fetion (飞信) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
 | <img src="images/huaban.png" width="100"> | Huaban (花瓣) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
 | <img src="images/netease_yixin.png" width="100"> | Netease Yixin (怡馨) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
