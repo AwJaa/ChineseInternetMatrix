@@ -40,6 +40,10 @@ Ever wonder? <br>
 | <img src="images/momo.png" width="100"> | Momo (陌陌) | <a href="https://en.wikipedia.org/wiki/Momo_(software)">Wikipedia</a> | Tinder Icon | Tinder | social search, instant messaging |
 | <img src="images/zhihu.png" width="100"> | Zhihu (知乎) | <a href="https://en.wikipedia.org/wiki/Zhihu">Wikipedia</a> | Quora Icon | Quora | upvoting question and answer site |
 | <img src="images/meilishou.png" width="100"> | Meilishou (Now Mogujie or Mogu (蘑菇街)) | <a href="https://en.wikipedia.org/wiki/Mogujie">Wikipedia</a> | ? | ? | social media and e-commerce specializing in fashion |
+| <img src="images/yunduan.png" width="100"> | Yunduan (-) | - | - | - | - |
+| <img src="images/netease_weibo.png" width="100"> | Netease Weibo (-) | - | - | - | - |
+| <img src="images/baidu_search.png" width="100"> | Baidu Search (-) | - | - | - | - |
+| <img src="images/xiaomi_miliao.png" width="100"> | Xiaomi Miliao (-) | - | - | - | - |
 
 
 ## Chinese to Western:
