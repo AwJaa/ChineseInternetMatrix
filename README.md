@@ -36,6 +36,11 @@ PII (Personally Identifiable Information) at time of sale, so that the CCP can t
 squash any dissidence before it can even begin.  So, if you do not have such access, you may not be able to do any more than some general 
 tasks.  Do not be fooled by the limited functionality.
 
+*BEWARE!!!* Installing ANY Chinese-made application, no matter from where, is not secure.  ALL Chinese companies are beholdened and loyal
+to the CCP, sharing all data with that government.  There are several studies of common Chinese apps showing them bypassing the Google Play 
+system, for example, to "download updates" outside of that monitored system.  These come directly from China and typically have a nice little
+spy surprise for your device.  Use a separate phone/computer for all Chinese apps/software at all times!
+
 This is a work in progress, and I will do my best to keep it up-to-date and comprehensive.
 
 Enjoy.
