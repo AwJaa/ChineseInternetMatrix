@@ -39,6 +39,7 @@ Ever wonder? <br>
 | <img src="images/netease_yixin.png" width="100"> | Netease Yixin (怡馨) | None | ? | ? | mobile messaging |
 | <img src="images/momo.png" width="100"> | Momo (陌陌) | <a href="https://en.wikipedia.org/wiki/Momo_(software)">Wikipedia</a> | Tinder Icon | Tinder | social search, instant messaging |
 | <img src="images/zhihu.png" width="100"> | Zhihu (知乎) | <a href="https://en.wikipedia.org/wiki/Zhihu">Wikipedia</a> | Quora Icon | Quora | upvoting question and answer site |
+| <img src="images/meilishou.png" width="100"> | Meilishou (Now Mogujie or Mogu (蘑菇街)) | <a href="https://en.wikipedia.org/wiki/Mogujie">Wikipedia</a> | ? | ? | social media and e-commerce specializing in fashion |
 
 
 ## Chinese to Western:
