@@ -83,7 +83,7 @@ Enjoy.
 
 | Icon | Service | Main Site | Download | Sign-up | Login | Other Reference |
 |:----:|:-------:|:---------:|:--------:|:-------:|:-----:|:----------------|
-| <img src="images/sina_weibo.png" width="100"> | Sina Weibo (新浪微博) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
+| <img src="images/sina_weibo.png" width="100"> | Sina Weibo (新浪微博) | <a href="https://weibo.com/us">Main</a> | <a href="https://play.google.com/store/apps/details?id=com.sina.weibo&hl=en_US&gl=US">Android</a> | <a href="https://weibo.com/signup/signup.php">Signup</a> | <a href="https://weibo.com/login.php">Login</a> | <a href="notyet">-</a> |
 | <img src="images/tencent_weibo.png" width="100"> | Tencent Weibo (腾讯微博) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
 | <img src="images/renren.png" width="100"> | Renren Wang or Renren Network (人人网) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
 | <img src="images/tencent_qq.png" width="100"> | Tencent QQ (腾讯QQ) | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> | <a href="notyet">-</a> |
