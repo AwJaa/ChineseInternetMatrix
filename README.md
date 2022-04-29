@@ -25,12 +25,16 @@ countries, but not really.  This makes any comprehensive list a moving target an
 Evolution does occur and that means that some services change from what they were originally intended to be and into an odd mixture of 
 services.  So, a one-to-one equivalency is very difficult to achieve.  
 
+Just like anywhere else, logos also change.  So, you may be looking at an older icon for the same service.  Bear that in mind.
+
 I have decided to instead provide Wikipedia links as well as main site, signup, login, and download links so that each one can be 
 researched on your own.  It has become almost impossible to do much of anything personal (with an account) on many of these platforms, 
 anonymously from the West.  Many of them now require a Chinese phone number.  All Chinese phones require full disclosure of all 
 PII (Personally Identifiable Information) at time of sale, so that the CCP can track all activity on their network and more easily
 squash any dissidence before it can even begin.  So, if you do not have such access, you may not be able to do any more than some general 
 tasks.  Do not be fooled by the limited functionality.
+
+This is a work in progress, and I will do my best to keep it up-to-date and comprehensive.
 
 Enjoy.
 
